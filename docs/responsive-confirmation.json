@@ -1,0 +1,53 @@
+{
+  "testedAt": "2026-09-10T00:59:28.239Z",
+  "results": [
+    {
+      "width": 360,
+      "credits": "visible",
+      "projectNumber": "visible",
+      "conceptYear": "visible",
+      "overflow": false,
+      "text200": "passed"
+    },
+    {
+      "width": 390,
+      "credits": "visible",
+      "projectNumber": "visible",
+      "conceptYear": "visible",
+      "overflow": false,
+      "text200": "passed"
+    },
+    {
+      "width": 509,
+      "credits": "visible",
+      "projectNumber": "visible",
+      "conceptYear": "visible",
+      "overflow": false,
+      "text200": "passed"
+    },
+    {
+      "width": 768,
+      "credits": "visible",
+      "projectNumber": "visible",
+      "conceptYear": "visible",
+      "overflow": false,
+      "text200": "passed"
+    },
+    {
+      "width": 1024,
+      "credits": "visible",
+      "projectNumber": "visible",
+      "conceptYear": "visible",
+      "overflow": false,
+      "text200": "passed"
+    },
+    {
+      "width": 1440,
+      "credits": "visible",
+      "projectNumber": "visible",
+      "conceptYear": "visible",
+      "overflow": false,
+      "text200": "passed"
+    }
+  ]
+}

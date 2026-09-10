@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "fold-house",
+    "order": 1,
+    "original": "assets/originals/fold-house-1.png",
+    "source": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-ecab27d9-5504-48ce-a1f9-6604010dbdb0.png",
+    "prompt": "Use case: photorealistic-natural. Create one original editorial architectural visualization, landscape 1536x1024, no montage, no text. Fold House: a compact single-storey L-shaped courtyard house under an asymmetric folded standing-seam dark zinc roof. Board-marked pale grey concrete perimeter walls, warm oak soffit beneath a deep covered veranda, floor-to-ceiling slender dark bronze frames, pale stone courtyard paving and one young multi-stem tree. A low concrete wall protects the courtyard. Setting is a quiet temperate meadow edge, tall grass, sparse birch trees, soft blue-grey sky. Camera in courtyard at eye level looking obliquely along the two perpendicular glazed wings, showing the distinctive angular low pitched folded roof and warm oak interior. Restrained built-in oak seating and one simple reading chair, no luxury styling. Natural afternoon side light, honest rough concrete and wood grain, realistic architectural geometry and scale, corrected verticals, subtle photographic grain, premium architectural monograph photography. The folded roof is structurally simple and plausible; no impossible windows or staircases; no recognizable real building or logos. Image must feel photographically rich, inhabitable and calm.",
+    "caption": "",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "fold-house",
+    "order": 2,
+    "original": "assets/originals/fold-house-2.png",
+    "source": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-bc4f53c9-f0be-49a4-979e-0e5a41a6d155.png",
+    "prompt": "Use case: photorealistic-natural. Reference image is the identity of Fold House, an original fictional architecture concept. Generate one new photograph of the SAME building, preserving its L-shaped single-storey plan, asymmetrical folded dark zinc roof, board-marked grey concrete, oak soffits and bronze frames. Landscape 1536x1024 view from inside the oak-lined living/dining wing, showing the built-in oak window seat, modest long oak table and paper pendant seen in reference; look out through same slender dark bronze frames toward the young multi-stem courtyard tree and perpendicular bedroom wing. Show roof soffit rising subtly, grey stone floor continuous at glazing. No new furniture scheme. Premium editorial architectural photography, natural colors, corrected perspective, believable human scale, no text, logos, collage or real building attribution.",
+    "caption": "",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "fold-house",
+    "order": 3,
+    "original": "assets/originals/fold-house-3.png",
+    "source": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-ad133dfa-de8b-41a9-a3fa-5ed7ffb025ec.png",
+    "prompt": "Use case: photorealistic-natural. Reference image is the identity of Fold House, an original fictional architecture concept. Generate one new photograph of the SAME building, preserving its L-shaped single-storey plan, asymmetrical folded dark zinc roof, board-marked grey concrete, oak soffits and bronze frames. Landscape 1536x1024 exterior site/context view from meadow 15 meters away, at eye height, showing whole low compact L-shaped courtyard house, the SAME folded dark standing-seam zinc roof, board-marked concrete walls, low protective courtyard wall and young courtyard tree, sparse birches and wild grasses. Courtyard partially visible; avoid adding wings, a second storey or extra complex roof ridges. Soft morning daylight. Premium editorial architectural photography, natural colors, corrected perspective, believable human scale, no text, logos, collage or real building attribution.",
+    "caption": "",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "fold-house",
+    "order": 4,
+    "original": "assets/originals/fold-house-4.png",
+    "source": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-ae6b15d6-4afb-4640-9c09-b89a00b3e4fa.png",
+    "prompt": "Use case: photorealistic-natural. Reference image is the identity of Fold House, an original fictional architecture concept. Generate one new photograph of the SAME building, preserving its L-shaped single-storey plan, asymmetrical folded dark zinc roof, board-marked grey concrete, oak soffits and bronze frames. Portrait 1024x1536 close spatial view walking beneath the SAME oak veranda soffit beside one board-marked pale concrete pier, slender dark bronze glazing, and pale stone courtyard with young tree softly beyond; show careful floor-to-glass threshold and folded roof edge. Plausible fine construction joins, calm afternoon light. Premium editorial architectural photography, natural colors, corrected perspective, believable human scale, no text, logos, collage or real building attribution.",
+    "caption": "",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "fold-house",
+    "order": 5,
+    "original": "assets/originals/fold-house-5.png",
+    "source": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-9631f200-f159-47ab-9c93-832f392980fc.png",
+    "prompt": "Use case: photorealistic-natural. Reference image is the identity of Fold House, an original fictional architecture concept. Generate one new photograph of the SAME building, preserving its L-shaped single-storey plan, asymmetrical folded dark zinc roof, board-marked grey concrete, oak soffits and bronze frames. Square 1024x1024 close architectural material photograph of the SAME house: pale board-marked concrete wall meeting the underside of warm oak boarded eaves and a thin dark bronze window frame, glimpse of pale stone sill; visible natural timber grain, concrete impressions and very fine dark shadow gap. Keep the exact materials and proportions of reference. No implausible geometry. Premium editorial architectural photography, natural colors, corrected perspective, believable human scale, no text, logos, collage or real building attribution.",
+    "caption": "",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "foundry-hall",
+    "order": 1,
+    "original": "assets/originals/foundry-hall-1.png",
+    "source": "/private/tmp/section-foundry-assets/foundry-hall-hero.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: architectural editorial photograph for SECTION OFFICE, a fictional architecture studio portfolio\nPrimary request: Produce one original photograph of the expansive main interior of Foundry Hall, a fictional adaptive reuse exhibition hall. Landscape 1536 x 1024 composition.\nScene: A long simple red-brown brick industrial hall, approximately 16 metres wide and 45 metres long, with a pitched roof carried by repeating dark painted steel triangular roof trusses. Broad high factory windows with fine black metal frames run along both long brick side walls. Far end wall has a centered broad factory window and modest ground-level double doorway. Patches and honest wear in the grey concrete floor. Within this old shell, new free-standing warm birch plywood exhibition walls, about 2.5 metres high, form a loose sequence of open rooms entirely below the trusses. The interventions are simple and precisely detailed.\nComposition: Main hero view from near one end, camera at eye level slightly off the central aisle looking into the long hall. Expansive but believable perspective, straight verticals, 28mm architectural lens. Trusses and tall windows stay legible above the plywood rooms. A plain timber bench and one understated canvas tote offer subtle signs of human use.\nLighting: Soft natural overcast daylight through the high windows, gentle shadows, quiet cool temperate atmosphere, no dramatic light effects.\nMaterials: Weathered red-brown brick, matte charcoal steel, pale warm unfinished plywood, patched concrete, delicate glazing reflections. Fine documentary surface texture and restrained natural color.\nStyle: Convincing high-resolution architecture magazine photography, precise construction geometry, lightly lived-in, restrained documentary tone.\nConstraints: This building is entirely fictional, no real building attribution. No text, lettering, fake logos, watermark, display art or signage. No glossy CGI, exaggerated roof structure, impossible joints, fisheye distortion, lavish furniture, ornamental features, crowds, or composited montage. One full-bleed photograph only.",
+    "caption": "Main hall: free-standing plywood rooms beneath the retained steel roof.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "foundry-hall",
+    "order": 2,
+    "original": "assets/originals/foundry-hall-2.png",
+    "source": "/private/tmp/section-foundry-assets/foundry-hall-context.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: architectural editorial photograph for SECTION OFFICE fictional architecture portfolio\nInput images: Image 1 is the identity reference for Foundry Hall. Preserve the same building shell, proportions, weathered red-brown brick, fine dark factory-window frames, and modest adaptive reuse character. This is a new exterior camera view of that fictional building, not a crop of the reference.\nPrimary request: One original exterior street context photograph of Foundry Hall, landscape 1536 x 1024.\nScene: A long simple red-brown brick industrial hall, approximately 16 metres wide and 45 metres long, with a plain pitched roof that houses the repeating black steel triangular trusses seen in the reference. The gable end nearest the camera has one broad centered high factory window with black small-pane frames, and a modest recessed black glazed double entrance directly beneath. The long elevation repeats broad tall black-framed factory windows between brick piers. Architectural consistency with the interior reference is crucial.\nContext: A quiet cool temperate industrial district, low unremarkable brick workshops farther down the street, pavement and restrained street greenery. Slightly worn grey asphalt and concrete footpath; a bicycle leaned against the hall offers an understated sign of use. No identifiable real-world location.\nComposition: Eye-level three-quarter view from across the quiet street, showing the complete gable front and most of the long side elevation. Believable 35mm shift-lens architectural perspective, verticals straight, entire roof shape legible with some overcast sky and foreground street.\nLight and style: Soft overcast daylight, natural neutral color, convincing high-resolution architectural editorial photography with precise geometry and honest weathering. Quiet documentary image, not stylized or cinematic.\nConstraints: No text, lettering, fake logos, building names, signage, watermark, recognizable landmarks, crowds, traffic, ornate industrial details, glossy CGI or surreal perspective. One full-bleed photograph only.",
+    "caption": "The retained brick hall in its quiet industrial street.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "foundry-hall",
+    "order": 3,
+    "original": "assets/originals/foundry-hall-3.png",
+    "source": "/private/tmp/section-foundry-assets/foundry-hall-secondary.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: secondary architectural editorial photograph for SECTION OFFICE fictional architecture portfolio\nInput images: Image 1 is the identity reference for the fictional Foundry Hall. Use it to preserve the exact overall brick industrial shell, black triangular steel roof trusses, high factory windows, warm pale plywood intervention and patched concrete. Generate a different photograph from the opposite end of this same interior, rather than repeating or cropping the reference view.\nPrimary request: Landscape 1536 x 1024 photograph looking back along the length of Foundry Hall from near the opposite end, with the camera closer to one long brick side wall.\nScene: A long red-brown brick industrial hall, approximately 16 metres wide and 45 metres long, with repeating dark steel triangular trusses supporting the pitched roof and broad high factory windows in black fine-pane frames down both sides. Off-white weathered roof lining and a sparse centered row of small industrial pendants match the reference. New free-standing pale birch plywood exhibition rooms remain below the windows and below the trusses, with broad open rectangular doorways, flat top edges, visible panel seams and simple timber benches. Plywood structures are independent from the old shell.\nComposition: A distinct oblique return view in which a near strip of the old brick wall and a tall window frame define one side, several open plywood rooms occupy the middle distance, and the high uninterrupted roof is legible beyond. Place the worn clear walking floor in the foreground and a modest bench off the path. Eye-level camera, controlled 28mm architectural perspective, straight verticals.\nLighting and finish: Soft overcast daylight, gentle realistic reflections in the patched concrete, quiet naturally warm plywood against cooler daylight. Honest architecture magazine photography with fine grain and subtle signs of use, precise believable construction.\nConstraints: Preserve coherent material identity and scale with the reference. No text, lettering, art displays, fake logos, signage, watermark, people, implausible geometry, polished luxury finishes, CGI gloss, fisheye distortion or composite montage. One full-bleed photograph only.",
+    "caption": "A return view along the exhibition rooms and original brick wall.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "foundry-hall",
+    "order": 4,
+    "original": "assets/originals/foundry-hall-4.png",
+    "source": "/private/tmp/section-foundry-assets/foundry-hall-threshold.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: portrait architectural editorial photograph for SECTION OFFICE fictional architecture portfolio\nInput images: Image 1 is the identity reference for Foundry Hall. Preserve this fictional building's weathered red-brown brick, black painted steel, large fine-pane factory windows, unfinished pale birch plywood rooms, and patched grey concrete. Generate a new close architectural photograph within the same building.\nPrimary request: One portrait 1024 x 1536 photograph of the threshold between the old industrial hall and a new free-standing plywood exhibition room.\nScene: Close to a long side wall inside the hall. A roughly weathered brick pier and dark steel column rise on one side, with part of a broad tall black-frame factory window above. Adjacent but visibly independent, a precisely built pale birch plywood insert forms a broad open rectangular doorway. The doorway reveals a quiet warm plywood-lined exhibition alcove with a simple integrated bench and no art or signage. The plywood room's straight top edge is entirely below the existing roof structure. A narrow visible gap separates the new insert from the old brick shell. Existing patched concrete continues through the level threshold without a step.\nComposition: Human eye-level oblique view from the original hall toward the plywood doorway. Show the whole doorway and its deep plain timber jamb, a useful section of old brick, and a partial glimpse of dark steel truss at the top of the portrait frame. Precise straight verticals and realistic 45mm architectural perspective, strong but quiet proportions, tactile materials.\nLighting and style: Soft daylight from the factory window rakes gently over old brick and plywood grain. Natural documentary architectural editorial photography, restrained color and believable imperfect surfaces, no glossy staging.\nConstraints: Same building identity and scale as reference. No text, letters, fake logos, watermark, signage, people, decorative art, unrealistic floating geometry, added ornament, polished luxury surfaces, fisheye distortion, CGI gloss or composite montage. One full-bleed photograph only.",
+    "caption": "A new plywood threshold sits beside the original brick and steel.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "foundry-hall",
+    "order": 5,
+    "original": "assets/originals/foundry-hall-5.png",
+    "source": "/private/tmp/section-foundry-assets/foundry-hall-detail.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: square material detail photograph for SECTION OFFICE fictional architecture portfolio\nInput images: Image 1 is the identity reference for the fictional Foundry Hall. Preserve the exact material family: irregular weathered red-brown brick with pale worn mortar, matte black painted steel columns on low original concrete plinths, and patched grey concrete floor. Generate a fresh closer photograph of this building, not a crop.\nPrimary request: One square 1024 x 1024 architectural editorial detail photograph where old brick meets a dark painted structural steel column and the concrete floor.\nSubject: Lower portion of one black steel column beside the original brick wall, a simple visible base plate with credible bolts seated on a low aged concrete plinth, with the rough brickwork immediately behind and the existing patched grey floor meeting it. Preserve honest old paint wear, subtle fine steel texture, natural brick variation and hairline concrete marks without turning the structure into ruins. Include just a thin precise edge of the pale plywood insert near the far side of the frame as context for the adaptive reuse.\nComposition: Close deliberate oblique view, camera around 60 centimetres above floor, 70mm lens feel, tight balanced geometry and tactile surfaces, all main junctions sharp with gentle background falloff. Focus on brick, steel, concrete and the quiet difference in age and finish.\nLighting and style: Soft side daylight from the high factory windows, natural muted color, realistic surface relief, architectural detail photography from a restrained editorial series. Grounded, credible construction and scale.\nConstraints: Same building identity as the supplied reference. No text, lettering, fake logos, watermark, labels, tools, people, decorative objects, unnecessary rust, dramatic decay, CGI gloss, extreme macro abstraction, implausible bolting or floating materials. One full-bleed photograph only.",
+    "caption": "Brick, steel and worn concrete at the base of the retained frame.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "common-ground",
+    "order": 1,
+    "original": "assets/originals/common-ground-1.png",
+    "source": "/private/tmp/section-common-assets/common-ground-exterior.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: original architectural portfolio photograph, Common Ground exterior hero.\nPrimary request: Generate one photorealistic editorial architectural photograph of a fictional neighborhood reading room called Common Ground. Show a modest single-storey pavilion in a leafy, ordinary urban neighborhood, with pale buff brick thick piers, a broad horizontal flat concrete roof extending over a sheltered public threshold, a built-in birch bench along the porch, dark forest-green slender metal glazing frames, and large clear windows revealing light birch library shelves and one long communal reading table. Gray-beige flagstone pavement joins the porch and sidewalk. Modest brick neighborhood buildings and mature deciduous trees give ordinary human scale. This is original invented architecture, no recognizable real building.\nComposition/framing: landscape 1536x1024, street-level three-quarter view with entire low pavilion visible, 35mm architectural lens, corrected verticals, roof line nearly horizontal, inviting porch clearly readable, foreground pavement and a small amount of foliage at the edges. Calm clear geometric composition suitable for a quiet architecture studio website, no need for text space.\nLighting/mood: diffuse bright overcast daylight, natural editorial photography with warm birch inside, soft genuine reflections, fine surface texture, restrained colors, believable slight wear. Quiet signs of use: a couple of closed books on the sheltered bench and simple chairs at the interior communal table, no people necessary.\nMaterials/textures: sandy pale buff brick in regular courses with recessed mortar; lightly board-marked pale gray concrete roof slab; matte dark green steel mullions; warm unfinished birch joinery; irregular rectangular gray flagstone paving.\nConstraints: physically plausible architecture and construction joints; only one storey; welcoming modest public building; preserve material subtlety and photographic realism. No words, signage, logos, watermarks, readable book text, conspicuous lettering, monumental scale, excessive glass towers, dramatic sunset, cinematic haze, surreal shapes, impossible reflections, repeated clone buildings, fisheye distortion, or CGI sheen. Output one single finished photograph.",
+    "caption": "A deep concrete canopy shelters the neighborhood reading room and its birch porch bench.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "common-ground",
+    "order": 2,
+    "original": "assets/originals/common-ground-2.png",
+    "source": "/private/tmp/section-common-assets/common-ground-interior.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: original architectural portfolio interior photograph, Common Ground reading room.\nInput images: Image 1 is the architectural identity reference, the exterior of this exact fictional pavilion; use its construction, geometry, materials, and daylight consistently, but move the camera inside.\nPrimary request: Generate one new photograph from inside the same modest single-storey neighborhood reading room. A calm, realistic interior with a single long rectangular light-birch communal reading table and simple birch chairs, full-height warm birch bookshelves against the solid wall, and the same dark forest-green slender metal-framed glazing opening visually onto the sheltered porch and leafy residential street. Preserve the pale buff brick thick piers, a pale concrete ceiling with quiet recessed lights, warm birch shelving proportions and matte green frames seen in the reference. A restrained globe pendant above the table is permitted as seen in the reference.\nComposition/framing: landscape 1536x1024; camera at standing eye level inside, looking obliquely along the communal table toward the green-framed entrance and front glazing, with shelves on one side and glimpses of the birch porch bench and flagstone paving outside. 35mm lens with clean corrected verticals, modest room dimensions, careful editorial architectural framing, full table leg geometry realistic.\nLighting/mood: broad soft daylight through green-framed glass, natural shadows and warm birch highlights, believable quiet atmosphere and slightly lived-in material surfaces.\nSigns of use: a small stack of books and one open book on the table, varied unreadable books on shelves, no people necessary.\nConstraints: same building and palette as reference; realistic joinery and metal frame construction; no monumental library hall, no new sculptural ceiling, no curved furniture, no exaggerated room size; no words, labels, readable book text, signage, logos, watermarks, cinematic haze, CGI sheen or surreal geometry. One single finished architectural photograph.",
+    "caption": "One long birch table anchors a reading room lined with shelves and green-framed glazing.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "common-ground",
+    "order": 3,
+    "original": "assets/originals/common-ground-3.png",
+    "source": "/private/tmp/section-common-assets/common-ground-context.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: original architectural portfolio photograph, Common Ground threshold and context.\nInput images: Image 1 is the architectural identity reference of the exact fictional reading-room pavilion. Preserve the reference architecture and materials while making a distinct new camera view.\nPrimary request: Photograph the opposite side of the same sheltered entrance threshold, looking along the covered porch toward the long dark forest-green glazed front, with the pale buff brick pier and built-in birch porch bench in the near foreground, birch shelves and the single long communal reading table visible beyond an open green-framed door. The porch is a spatial connection between the library and the flagstone public pavement under a broad flat pale concrete roof slab. Leafy ordinary residential street visible at the open outer edge of porch. Quiet human scale, modest single-storey neighborhood reading pavilion.\nComposition/framing: landscape 1536x1024, architectural eye-level camera standing just inside the side edge of the porch, looking diagonally from the bench end through the open entrance toward the room. Frame a clear progression from flagstone and birch bench in the foreground to the green door frame to birch table and shelves inside. Keep sheltered concrete soffit visible above and some leafy neighborhood context at outer edge, 35mm lens, straight verticals, plausible perspective. This must be a different photograph from the street hero.\nLighting/mood: soft bright diffuse daylight and restrained natural colors, warm birch joinery, gentle shadows, quiet editorial architectural photography.\nMaterials/textures: the exact reference's pale sandy buff brick, subtle gray mortar, light concrete slab, slender matte forest-green metal glazing frames, warm birch bench/table/shelves, gray rectangular flagstone pavement. A few closed books on bench, no people needed.\nConstraints: same specific fictional building, realistic door hardware and joints, intact brick courses; keep the one-storey scale. No text, no signage, no logos, no watermarks, no readable book spines, no dramatic sunset, no unrealistic cantilevers, no curved walls, no CGI surface sheen. One single finished photograph.",
+    "caption": "The open threshold joins a sheltered public bench, flagstone pavement, and the communal room.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "common-ground",
+    "order": 4,
+    "original": "assets/originals/common-ground-4.png",
+    "source": "/private/tmp/section-common-assets/common-ground-threshold.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: original architectural portfolio portrait photograph, Common Ground porch.\nInput images: Image 1 is the architectural identity reference of the exact fictional pavilion. Retain this building's material palette, height, construction, bench character and roof thickness.\nPrimary request: Make a close but spatially legible portrait-format side view of the same modest neighborhood reading room's sheltered porch. Focus on the thickness and tactile pale buff brick courses of a full-height masonry pier, the long built-in warm birch bench tucked beside the dark forest-green glazed entry, and the underside and clean edge of the broad flat concrete shelter overhead. The bench should visibly provide a quiet place to sit between room and sidewalk. Green-framed glass gives a small background glimpse of the library's birch shelves. Rectangular gray flagstones run beneath the bench and out to the leafy street.\nComposition/framing: portrait 1024x1536, corrected architectural verticals, camera on the outer edge of the porch looking side-on past the thick brick pier toward the bench and entry. Full-height pier occupies part of foreground, bench and forest-green glazing in middle ground, overhead roof and pavement clearly expressed. More intimate and vertical than the reference street view. 50mm editorial architectural lens, credible scale and geometry.\nLighting/mood: calm soft diffuse daylight, subtle surface irregularities, warm birch highlights, real photographic depth and restrained natural colors. A small pair of closed books on the bench, no people.\nConstraints: same fictional reading-room building, single-storey, no new architectural elements or extra floors; physically plausible masonry, bench construction and glazing. No text, readable titles, signage, logos or watermark. Avoid CGI sheen, excessive contrast, stylized filters, warped verticals, ornamental furniture and dramatic sunset. Output one single portrait photograph.",
+    "caption": "Thick buff-brick piers and a broad roof define a quiet place to pause beside the entrance.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "common-ground",
+    "order": 5,
+    "original": "assets/originals/common-ground-5.png",
+    "source": "/private/tmp/section-common-assets/common-ground-detail.png",
+    "prompt": "Use case: photorealistic-natural\nAsset type: original architectural portfolio square material detail photograph, Common Ground.\nInput images: Image 1 is the architectural identity reference of this exact fictional reading-room pavilion. Use the exact pale buff brick, recessed gray mortar, matte dark forest-green steel and light warm birch bench from this reference.\nPrimary request: Create one new close architectural detail photograph of the sheltered entrance material junction. A finely textured pale sandy buff brick pier or wall adjoins a slender matte dark forest-green steel door jamb and a built-in birch bench. Clearly show the edge of the warm birch bench seat and backrest, realistic board thickness and subtle wood grain, regular brick courses and mortar joints, narrow correct steel frame with a sliver of transparent glazing that softly reveals warm birch shelves inside. Gray flagstone paving at the lower edge may be visible.\nComposition/framing: square 1024x1024, tightly composed 60mm architectural detail view, building materials fill the image in a balanced calm arrangement, seat at a believable sitting height. The brick and green-steel junction remains crisp, background library lightly softer but realistic. It must feel like a real detail of the same pavilion rather than abstract material samples.\nLighting/mood: soft diffuse outdoor daylight under the porch roof, tactile but natural material textures, restrained warm palette, fine editorial photographic grain, no dramatic lighting.\nConstraints: preserve architectural identity and accurate joinery; physical material junctions and believable fastenings, no impossible connections; no people, no books with readable text, no words, signage, logos, labels, watermarks, CGI shine, collage, diagrams, swatches, ornament or decorative styling. One single square finished photograph.",
+    "caption": "Pale buff brick, matte green steel, and birch joinery meet at the reading-room entrance.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "quarry-rooms",
+    "order": 1,
+    "original": "assets/originals/quarry-rooms-1.png",
+    "source": "/private/tmp/section-collection-assets/quarry-rooms-01-hero.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: hero photograph for fictional architecture portfolio SECTION OFFICE. Create one original, believable editorial architectural photograph, landscape 3:2 composition. Project Quarry Rooms: a compact group of low single-storey limestone hospitality rooms gathered around a rough stone courtyard on a dry rocky Mediterranean-like hillside. Architectural identity: thick pale cream limestone walls and flat roofs, three simple square guest-room volumes stepping subtly with the slope, deep rectangular door recesses, natural honey-oak pivot shutters, pale lime-plaster inner reveals. Foreground rough limestone court, restrained dry grasses, rocky land falling away behind. Human-eye courtyard view at a diagonal showing all three volumes and inviting depth into one open room. Late afternoon neutral warm sunlight and real soft shadow, tactile irregular stone masonry, precise buildable lintels and realistic proportions. Quiet natural colour, 35mm architectural camera, verticals straight, subtle film grain. Original design visualization, not an existing practice or known building. No people, text, logos, watermarks, collages, diagrams, stylized rendering, fantasy forms, overprocessed HDR, or excessive decor.",
+    "caption": "Three limestone guest rooms gather around a rough stone court.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "quarry-rooms",
+    "order": 2,
+    "original": "assets/originals/quarry-rooms-2.png",
+    "source": "/private/tmp/section-collection-assets/quarry-rooms-02-interior.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: secondary architectural portfolio photograph, landscape 3:2. Image 1 is the architectural identity reference for the fictional Quarry Rooms project. Create a NEW camera view from inside the left guest room in that exact building, looking obliquely toward its deep open doorway and the same limestone court outside. Preserve the reference's thick creamy limestone wall, smooth pale lime-plaster internal reveal, honey oak full-height pivot shutter, simple straight lintel, warm stone threshold, modest room scale, low flat ceiling. Show the pale plaster room, edge of low linen bed at left, understated oak stool, and exterior stone guest room glimpsed beyond the door. Quiet late afternoon natural light crosses the room's lime-washed walls and pale mineral floor; subtle detailed textures, editorial architectural photography with straight verticals. Exact same material family and credible construction as reference, distinct interior spatial composition. Original fictional design, no people, text, logos, watermark, collage, extravagant styling, fantasy geometry, HDR.",
+    "caption": "Lime-plaster room opening through an oak shutter to the stone court.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "quarry-rooms",
+    "order": 3,
+    "original": "assets/originals/quarry-rooms-3.png",
+    "source": "/private/tmp/section-collection-assets/quarry-rooms-03-threshold.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: portrait 2:3 architectural material detail photograph. Image 1 is the architectural identity reference for the fictional Quarry Rooms project. Photograph a close new view of the SAME left guest-room doorway in the reference, looking at the junction of full-height honey-oak shutter, pale lime-plaster deep reveal, rough creamy limestone masonry and cut-stone threshold. Preserve the exact thick wall, shutter board grain and natural material palette; show believable slim dark hardware and precise clean threshold alignment. Frame vertically from knee height to part of the lintel, not the full building; include just a sliver of the dim plaster room and one quiet sunlit shadow. Tactile editorial architectural photography, neutral warm afternoon light, straight geometry, real stone pores and oak grain. Original visualization; no people, text, logos, watermark, collage, ornamental objects, diagram or CGI appearance.",
+    "caption": "Oak shutter, lime-plaster reveal, and cut limestone meet at the threshold.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "frame-apartment",
+    "order": 1,
+    "original": "assets/originals/frame-apartment-1.png",
+    "source": "/private/tmp/section-collection-assets/frame-apartment-01-hero.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: hero photograph for fictional architecture portfolio SECTION OFFICE, landscape 3:2. Create one original believable editorial photograph of Frame Apartment: a compact urban interior reorganized with a SINGLE continuous honey-oak joinery frame that incorporates open shelving, storage, a doorway and sliding translucent vertically ribbed-glass panels. Architectural identity: rectangular room about 6 by 4 metres, two tall narrow original white-painted sash windows side-by-side on the far wall, white plaster walls and ceiling, pale grey fine-aggregate terrazzo floor. The thick oak portal spans the full width across the room, with oak storage on the left and three ribbed glass panel modules on its right, one slid open; floor-to-ceiling joinery has simple precise flush joints. Camera at the entrance looking diagonally toward the oak frame and both tall original windows beyond; small restrained white linen sofa and oak dining table give scale without clutter. Soft clear daylight from the two windows, neutral natural colour, tactile oak grain and luminous ribbed glass. Straight verticals, professional 28mm architectural photograph, realistic small apartment dimensions. Original fictional design visualization, not an actual practice. No people, text, logos, watermarks, collage, impossible reflections, fisheye, show-home excess, or CGI aesthetic.",
+    "caption": "A continuous oak frame organizes the apartment around its original windows.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "frame-apartment",
+    "order": 2,
+    "original": "assets/originals/frame-apartment-2.png",
+    "source": "/private/tmp/section-collection-assets/frame-apartment-02-reverse-view.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: secondary architecture portfolio photograph, landscape 3:2. Image 1 is the architectural identity reference for the fictional Frame Apartment. Create a distinct NEW reverse view in the SAME apartment: camera in the bedroom beside the pair of original tall sash windows, looking back through the open centre bay of the continuous honey-oak joinery frame toward the white linen sofa and oak dining table in the living room. Preserve reference identity: one full-width floor-to-ceiling flush oak portal, thick horizontal oak head, built-in shelves and cupboard forming one side, vertically ribbed translucent-glass sliding panels forming the other side, white plaster walls and ceiling, light grey fine-aggregate terrazzo floor. The reverse camera makes shelving side and glass side naturally swap left-right. Show a small corner of the linen bed in the near foreground and a side glimpse of one original window at the edge. Let daylight behind the camera softly illuminate the oak grain and terrazzo, with real translucent distortion through the ribbed glass. Restrained quiet editorial architectural photography, 28–35mm lens, straight verticals, plausible compact urban plan. Do not introduce new partitions or windows. Original design visualization. No people, visible writing, text, logos, watermarks, collage, fisheye, fantasy reflections, excessive decor.",
+    "caption": "A view back through ribbed-glass panels connects the sleeping and living spaces.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "frame-apartment",
+    "order": 3,
+    "original": "assets/originals/frame-apartment-3.png",
+    "source": "/private/tmp/section-collection-assets/frame-apartment-03-glass-detail.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: portrait 2:3 architectural material detail photograph. Image 1 is the architectural identity reference for the fictional Frame Apartment. Create a NEW close vertical photograph in the SAME apartment of the junction between one honey-oak sliding panel stile, its vertically ribbed translucent-glass infill, the adjacent thick continuous oak portal jamb, and the pale grey fine-aggregate terrazzo floor. Preserve the exact oak tone, rectilinear joinery, ribbed-glass spacing and floor material in reference. Frame from about 1.4m down to floor, showing a slim recessed dark finger pull in the stile, precise concealed track and small shadow gap; the bed and tall-window light become softly distorted shapes behind the glass. Strong quiet detail composition with oak and ribbed glass filling most of frame, no full-room panorama. Soft natural window light, highly believable small construction joints, natural material texture, editorial architecture photography, straight verticals. No people, visible text, logos, watermarks, collage, invented ornament, gold fittings or CGI appearance.",
+    "caption": "Ribbed glass meets flush oak joinery above the terrazzo floor.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "field-pavilion",
+    "order": 1,
+    "original": "assets/originals/field-pavilion-1.png",
+    "source": "/private/tmp/section-collection-assets/field-pavilion-01-hero.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: hero photograph for fictional architecture portfolio SECTION OFFICE, landscape 3:2. Create one original believable editorial photograph of Field Pavilion, a small experimental but buildable open timber shelter in a green meadow. Architectural identity: six slender pale light-timber square posts in two parallel rows of three, low flat rectangular slatted timber roof, closely spaced narrow parallel rafters, a small rectangular timber deck slightly above grass, simple dark galvanized steel pin-and-plate connections visible only at joints. Roof is about 6 by 3.5 metres, 2.6 metres high, posts about 90mm square, modest diagonal timber knee braces at end bays. No solid walls, no glazing, no enclosed room. Camera human height at a 3/4 external corner, pavilion off-centre with layered green meadow and distant soft deciduous trees, roof shape and simple structural logic clearly readable. Bright overcast spring daylight, natural colour, real timber grain and small fasteners, restrained architectural photography with straight verticals. Original design visualization not an existing practice. No people, text, logos, watermarks, collages, fantasy cantilevers, floating members, duplicate posts, CGI effect, ornamental furniture.",
+    "caption": "An open timber shelter holds a small deck above the meadow.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "field-pavilion",
+    "order": 2,
+    "original": "assets/originals/field-pavilion-2.png",
+    "source": "/private/tmp/section-collection-assets/field-pavilion-02-under-roof.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: secondary architecture portfolio photograph, landscape 3:2. Image 1 is the architectural identity reference for fictional Field Pavilion. Create a distinct NEW view inside the SAME pavilion, standing on the timber deck near one short end and looking lengthwise beneath its flat slatted roof toward the meadow. Preserve the reference's pale timber, exact roof thickness and closely spaced parallel roof slats, slim square posts in two long rows, small timber knee braces at the ends, simple dark galvanized steel plates and bolts, low timber deck above grass, open structure without any walls or glass. Roof slats and beams occupy upper half and reveal coherent parallel perspective; near posts and deck edge anchor frame; green meadow and soft deciduous trees visible through far end. Soft bright overcast daylight matching the reference, natural green and pale wood colour, precise plausible wood-to-steel joints. Quiet editorial architecture photograph, 28–35mm camera, straight verticals, no fisheye. Original fictional visualization, no people, benches, furniture, text, logos, watermarks, collage, added roofs, impossible members, CGI aesthetic.",
+    "caption": "Parallel timber slats filter daylight over the open deck.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "field-pavilion",
+    "order": 3,
+    "original": "assets/originals/field-pavilion-3.png",
+    "source": "/private/tmp/section-collection-assets/field-pavilion-03-joint.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: portrait 2:3 architectural material detail photograph. Image 1 is the architectural identity reference for fictional Field Pavilion. Create a close NEW portrait photograph of one near corner post meeting the flat roof beam in the SAME pavilion. Preserve the reference's pale softly weathered square timber posts, clean rectangular perimeter beam, closely spaced narrow underside roof slats, small timber knee brace, simple dark galvanized steel plate and neatly aligned real hex bolts. Focus on a believable bolted post-and-beam connection and the cut end grain, viewed from just below eye level, slightly upward with straight structural geometry. Include portion of post down frame and soft green meadow beyond; show just one roof corner and no full pavilion. Natural overcast light matching reference, editorial construction-detail photography, tactile saw marks and restrained metal patina, crisp believable craft. Original fictional visualization. No people, text, logos, watermarks, collage, excessive connector plates, floating fasteners, warped timber, imaginary construction, or CGI look.",
+    "caption": "A bolted steel plate connects the light timber post and roof beam.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "northlight-studio",
+    "order": 1,
+    "original": "assets/originals/northlight-studio-1.png",
+    "source": "/private/tmp/section-collection-assets/northlight-studio-01-hero.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: hero architectural portfolio photograph for fictional SECTION OFFICE, landscape 3:2. Create an original believable editorial photograph of Northlight Studio: a small single-storey creative workplace organized beneath EXACTLY THREE repeated north-facing sawtooth clerestory roof bays. Architectural identity: simple rectangular former workshop, roughly 12 metres long and 7 metres wide; three sequential shallow sawtooth roof bays span the width, their narrow vertical glazed north faces admitting even cool diffuse daylight, white-painted slim structural beams and white roof planes. Whitewashed brick walls, raw light-grey concrete floor, two long parallel shared birch-plywood worktables with slim steel legs, simple grey task chairs, modest birch shelving at the far wall. View from inside one short end down the full length, all three repeated sawtooth bay profiles legible overhead, camera slightly off-centre so wall depth and desk edges give clear geometry. A few closed sketchbooks and plain paper models, no computers required, restrained actively used studio feeling. Soft overcast north light, natural neutral colour, true material texture, professional architectural editorial photograph, 28mm perspective with straight verticals. Original fictional design visualization not an actual office. No people, text, logos, watermarks, collage, excessive plants, showroom styling, impossible roof structures, or CGI aesthetic.",
+    "caption": "Three north-facing roof bays bring even light across shared birch desks.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "northlight-studio",
+    "order": 2,
+    "original": "assets/originals/northlight-studio-2.png",
+    "source": "/private/tmp/section-collection-assets/northlight-studio-02-workshop-exterior.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: contextual secondary architecture portfolio photograph, landscape 3:2. Image 1 is the architectural identity reference for fictional Northlight Studio. Create a NEW exterior view of this SAME small creative workplace, seen obliquely across its simple concrete entrance yard. Maintain its rectangular one-storey workshop body, whitewashed brick walls, exactly THREE parallel repeating shallow sawtooth roof bays, slim white-painted structure and narrow vertical north-facing clerestory glazing. The three roof teeth and their glazing must have coherent physically buildable repeated geometry and consistent orientation. The low facade has one tall slim dark-framed window and a simple open glazed studio door through which a little birch shared worktable is visible. Modest neighbouring brick side walls at the edge provide quiet urban workshop context, no dramatic city skyline. Keep scale approximately 12 by 7 metres, restrained industrial conversion. Soft overcast daylight consistent with interior reference, natural white brick and silver-grey glazing, realistic weathering and concrete. Human eye-height professional editorial architectural photograph, 35mm lens, straight verticals. Original fictional visualization. No people, signs, text, book lettering, logos, watermarks, collage, extra roof bays, fantasy roof geometry, or CGI aesthetic.",
+    "caption": "The studio’s repeated sawtooth roof sits above a modest whitewashed workshop.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "northlight-studio",
+    "order": 3,
+    "original": "assets/originals/northlight-studio-3.png",
+    "source": "/private/tmp/section-collection-assets/northlight-studio-03-birch-detail.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: portrait 2:3 architectural material detail photograph. Image 1 is the architectural identity reference for fictional Northlight Studio. Create a NEW close vertical detail in the SAME workplace of the near corner of a shared birch-plywood worktable: pale birch face, exposed fine layered plywood edge with a very small radius, slim simple grey steel supporting leg meeting the raw light-grey concrete floor. Preserve the exact wood tone, raw concrete finish, whitewashed brick wall and grey task-chair family from reference. Table at left fills upper half, one grey chair cropped softly behind, whitewashed brick and a hint of even roof light in background. Place only one blank closed sketchbook or a small plain white paper study model on table, no lettering. Quiet side-lit daylight from the same north-facing clerestory gives soft shadow and honest texture, editorial architectural detail photography, natural colour and geometry. Original fictional visualization. No people, words, logos, watermark, collage, extra furniture, glossy finishes, text on books or papers, impossible furniture joints, or CGI appearance.",
+    "caption": "Layered birch edges and slim steel legs rest on the raw concrete floor.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "passage-gallery",
+    "order": 1,
+    "original": "assets/originals/passage-gallery-1.png",
+    "source": "/private/tmp/section-collection-assets/passage-gallery-01-hero.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: hero architectural portfolio photograph for fictional SECTION OFFICE, landscape 3:2. Create an original believable editorial photograph of Passage Gallery: a narrow linear contemporary art space in a modest urban infill building. Architectural identity: one simple room about 3.8 metres wide and 16 metres long, long continuous smooth white display wall on the left, pale concrete floor with modest slab joints, a single continuous narrow skylight running along the left edge of a flat white ceiling, dark oxidized steel entrance reveal framing the near foreground. Art is restrained: three small unframed original abstract monochrome canvases evenly spaced on the long left wall and one quiet low grey plinth near far end; no labels. At far end a plain pale wall and discreet closed white door. Camera just within the thick dark steel threshold looking down the long axis with a slight diagonal across the gallery, clear full-height spatial depth, quietly dramatic receding perspective and soft continuous skylight wash on display wall. Natural neutral daylight, tactile mill-scale steel and real concrete texture, professional editorial architectural photography with straight verticals, 28mm lens. Original fictional design visualization not a known gallery or practice. No people, text, logos, watermarks, collage, sculptural fantasy architecture, glowing artificial strips, excessive exhibits, or CGI aesthetic.",
+    "caption": "A continuous skylight draws visitors along the gallery’s white display wall.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "passage-gallery",
+    "order": 2,
+    "original": "assets/originals/passage-gallery-2.png",
+    "source": "/private/tmp/section-collection-assets/passage-gallery-02-entrance.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: contextual secondary architecture portfolio photograph, landscape 3:2. Image 1 is the architectural identity reference for fictional Passage Gallery. Create a distinct NEW external entrance view of the SAME narrow linear art space, standing at a gentle diagonal on a quiet paved urban pavement. The gallery is a modest single-storey infill with a plain light-grey mineral-render facade, only about 4 metres wide, set between older restrained brick party walls. Its single deep full-height rectangular entrance has the SAME dark oxidized mill-scale steel lining and threshold as reference, open clear glazed entrance door with very slim dark edge. Through the entrance show the SAME long white left display wall, three small monochrome canvases, continuous skylight high along its left side, raw pale concrete floor, and small distant grey plinth; all fit the reference geometry. Facade treatment is austere and quiet, no sign or building number. Near human-eye-height, 35mm architectural editorial camera, straight verticals, soft overcast daylight, natural texture in steel, brick and concrete, plausible construction and restrained urban scale. Original fictional visualization not a known gallery. No people, cars, signs, writing, logos, watermarks, collage, additional display windows, dramatic landmark facade, CGI appearance.",
+    "caption": "A dark steel entrance reveal marks the gallery within the urban infill.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  },
+  {
+    "slug": "passage-gallery",
+    "order": 3,
+    "original": "assets/originals/passage-gallery-3.png",
+    "source": "/private/tmp/section-collection-assets/passage-gallery-03-steel-threshold.png",
+    "prompt": "Use case: photorealistic-natural. Asset type: portrait 2:3 architectural material detail photograph. Image 1 is the architectural identity reference for fictional Passage Gallery. Create a NEW close portrait view of the SAME dark oxidized steel entrance reveal where it meets the continuous white plaster display wall and raw pale concrete gallery floor. Camera obliquely at the threshold, steel jamb fills left third with visible natural mottled blue-black mill-scale texture, clean folded edge and a discreet flush joint; white wall recedes to the right and a small blurred monochrome canvas is glimpsed deeper inside. Capture bottom of steel jamb precisely meeting the concrete floor with a thin intentional shadow joint, one concrete slab seam and softly washed daylight from the continuous skylight above. No whole-room panorama, focus on threshold material relationships and tangible construction. Preserve exact dark steel tone, white plaster, concrete and narrow linear room scale of reference. Natural neutral editorial architecture photography, vertical 2:3, straight detailed geometry, quiet texture. Original fictional visualization. No people, text, labels, logos, watermarks, collage, gold metal, excessive rust flakes, dramatic artificial light, CGI appearance.",
+    "caption": "Oxidized steel, white plaster, and concrete meet in a deep entrance reveal.",
+    "generator": "Built-in image_gen",
+    "usage": "Original fictional architectural visualization generated for this portfolio concept; not documentary photography."
+  }
+]

@@ -1,0 +1,26 @@
+SECTION / OFFICE
+SO-D0EA9D28 — Submitted demo brief
+Status: Reviewing
+Updated: 2026-09-10T00:53:07.154Z
+
+PROJECT
+Type: Home
+Context: A quiet meadow edge
+Work: New build
+Area: 145 m² (self-reported)
+Priorities: Daylight, Connection to outdoors
+Timeframe: Exploring possibilities
+Budget: Not decided (USD) — self-reported, not an estimate
+
+REFERENCES
+fold-house
+https://example.com/reference
+
+CONTACT
+Alex Example
+alex@example.com
+
+BRIEF
+A compact home with a sheltered outdoor space, a quiet place to read and a flexible room for working from home. We are exploring how the rooms could share light.
+
+This is a self-initiated portfolio demonstration. Saved in this browser; no message was sent.

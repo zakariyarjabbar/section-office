@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.vercel/
+*.log
+.impeccable/config.local.json

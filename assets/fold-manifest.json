@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "project_slug": "fold-house",
+      "role": "hero",
+      "source_path": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-ecab27d9-5504-48ce-a1f9-6604010dbdb0.png",
+      "exact_prompt": "Use case: photorealistic-natural. Create one original editorial architectural visualization, landscape 1536x1024, no montage, no text. Fold House: a compact single-storey L-shaped courtyard house under an asymmetric folded standing-seam dark zinc roof. Board-marked pale grey concrete perimeter walls, warm oak soffit beneath a deep covered veranda, floor-to-ceiling slender dark bronze frames, pale stone courtyard paving and one young multi-stem tree. A low concrete wall protects the courtyard. Setting is a quiet temperate meadow edge, tall grass, sparse birch trees, soft blue-grey sky. Camera in courtyard at eye level looking obliquely along the two perpendicular glazed wings, showing the distinctive angular low pitched folded roof and warm oak interior. Restrained built-in oak seating and one simple reading chair, no luxury styling. Natural afternoon side light, honest rough concrete and wood grain, realistic architectural geometry and scale, corrected verticals, subtle photographic grain, premium architectural monograph photography. The folded roof is structurally simple and plausible; no impossible windows or staircases; no recognizable real building or logos. Image must feel photographically rich, inhabitable and calm."
+    },
+    {
+      "project_slug": "fold-house",
+      "role": "interior",
+      "source_path": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-bc4f53c9-f0be-49a4-979e-0e5a41a6d155.png",
+      "exact_prompt": "Use case: photorealistic-natural. Reference image is the identity of Fold House, an original fictional architecture concept. Generate one new photograph of the SAME building, preserving its L-shaped single-storey plan, asymmetrical folded dark zinc roof, board-marked grey concrete, oak soffits and bronze frames. Landscape 1536x1024 view from inside the oak-lined living/dining wing, showing the built-in oak window seat, modest long oak table and paper pendant seen in reference; look out through same slender dark bronze frames toward the young multi-stem courtyard tree and perpendicular bedroom wing. Show roof soffit rising subtly, grey stone floor continuous at glazing. No new furniture scheme. Premium editorial architectural photography, natural colors, corrected perspective, believable human scale, no text, logos, collage or real building attribution."
+    },
+    {
+      "project_slug": "fold-house",
+      "role": "context",
+      "source_path": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-ad133dfa-de8b-41a9-a3fa-5ed7ffb025ec.png",
+      "exact_prompt": "Use case: photorealistic-natural. Reference image is the identity of Fold House, an original fictional architecture concept. Generate one new photograph of the SAME building, preserving its L-shaped single-storey plan, asymmetrical folded dark zinc roof, board-marked grey concrete, oak soffits and bronze frames. Landscape 1536x1024 exterior site/context view from meadow 15 meters away, at eye height, showing whole low compact L-shaped courtyard house, the SAME folded dark standing-seam zinc roof, board-marked concrete walls, low protective courtyard wall and young courtyard tree, sparse birches and wild grasses. Courtyard partially visible; avoid adding wings, a second storey or extra complex roof ridges. Soft morning daylight. Premium editorial architectural photography, natural colors, corrected perspective, believable human scale, no text, logos, collage or real building attribution."
+    },
+    {
+      "project_slug": "fold-house",
+      "role": "threshold",
+      "source_path": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-ae6b15d6-4afb-4640-9c09-b89a00b3e4fa.png",
+      "exact_prompt": "Use case: photorealistic-natural. Reference image is the identity of Fold House, an original fictional architecture concept. Generate one new photograph of the SAME building, preserving its L-shaped single-storey plan, asymmetrical folded dark zinc roof, board-marked grey concrete, oak soffits and bronze frames. Portrait 1024x1536 close spatial view walking beneath the SAME oak veranda soffit beside one board-marked pale concrete pier, slender dark bronze glazing, and pale stone courtyard with young tree softly beyond; show careful floor-to-glass threshold and folded roof edge. Plausible fine construction joins, calm afternoon light. Premium editorial architectural photography, natural colors, corrected perspective, believable human scale, no text, logos, collage or real building attribution."
+    },
+    {
+      "project_slug": "fold-house",
+      "role": "detail",
+      "source_path": "/Users/zakariyajabbar/.codex/generated_images/01a08700-91fb-7f10-8531-a66bcd5a1214/exec-9631f200-f159-47ab-9c93-832f392980fc.png",
+      "exact_prompt": "Use case: photorealistic-natural. Reference image is the identity of Fold House, an original fictional architecture concept. Generate one new photograph of the SAME building, preserving its L-shaped single-storey plan, asymmetrical folded dark zinc roof, board-marked grey concrete, oak soffits and bronze frames. Square 1024x1024 close architectural material photograph of the SAME house: pale board-marked concrete wall meeting the underside of warm oak boarded eaves and a thin dark bronze window frame, glimpse of pale stone sill; visible natural timber grain, concrete impressions and very fine dark shadow gap. Keep the exact materials and proportions of reference. No implausible geometry. Premium editorial architectural photography, natural colors, corrected perspective, believable human scale, no text, logos, collage or real building attribution."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "home",
+    "file": "/social/home-v1.jpg",
+    "title": "SECTION / OFFICE",
+    "image": "/images/fold-house-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 145753
+  },
+  {
+    "id": "fallback",
+    "file": "/social/fallback-v1.jpg",
+    "title": "SECTION / OFFICE",
+    "image": "/images/common-ground-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 146073
+  },
+  {
+    "id": "fold-house",
+    "file": "/social/fold-house-v1.jpg",
+    "title": "Fold House",
+    "image": "/images/fold-house-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 143922
+  },
+  {
+    "id": "foundry-hall",
+    "file": "/social/foundry-hall-v1.jpg",
+    "title": "Foundry Hall",
+    "image": "/images/foundry-hall-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 104401
+  },
+  {
+    "id": "common-ground",
+    "file": "/social/common-ground-v1.jpg",
+    "title": "Common Ground",
+    "image": "/images/common-ground-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 146811
+  },
+  {
+    "id": "quarry-rooms",
+    "file": "/social/quarry-rooms-v1.jpg",
+    "title": "Quarry Rooms",
+    "image": "/images/quarry-rooms-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 129527
+  },
+  {
+    "id": "frame-apartment",
+    "file": "/social/frame-apartment-v1.jpg",
+    "title": "Frame Apartment",
+    "image": "/images/frame-apartment-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 96940
+  },
+  {
+    "id": "field-pavilion",
+    "file": "/social/field-pavilion-v1.jpg",
+    "title": "Field Pavilion",
+    "image": "/images/field-pavilion-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 145745
+  },
+  {
+    "id": "northlight-studio",
+    "file": "/social/northlight-studio-v1.jpg",
+    "title": "Northlight Studio",
+    "image": "/images/northlight-studio-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 90470
+  },
+  {
+    "id": "passage-gallery",
+    "file": "/social/passage-gallery-v1.jpg",
+    "title": "Passage Gallery",
+    "image": "/images/passage-gallery-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 53212
+  },
+  {
+    "id": "the-space-before-the-door",
+    "file": "/social/the-space-before-the-door-v1.jpg",
+    "title": "The space before the door",
+    "image": "/images/common-ground-3.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 131146
+  },
+  {
+    "id": "drawing-with-daylight",
+    "file": "/social/drawing-with-daylight-v1.jpg",
+    "title": "Drawing with daylight",
+    "image": "/images/northlight-studio-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 93441
+  },
+  {
+    "id": "keeping-the-useful-past",
+    "file": "/social/keeping-the-useful-past-v1.jpg",
+    "title": "Keeping the useful past",
+    "image": "/images/foundry-hall-1.webp",
+    "width": 1200,
+    "height": 630,
+    "bytes": 110579
+  }
+]

@@ -1,0 +1,163 @@
+{
+  "testedAt": "2026-09-10T00:53:49.208Z",
+  "origin": "http://localhost:3000",
+  "browser": "153.0.8010.12",
+  "results": [
+    {
+      "name": "Every public route supports direct static navigation and refresh; invalid slug returns 404",
+      "status": "passed"
+    },
+    {
+      "name": "Filters use URL state, reset/no-results and browser back; list preference survives refresh",
+      "status": "passed"
+    },
+    {
+      "name": "Accessible gallery supports arrows, zoom, Escape and focus restoration",
+      "status": "passed"
+    },
+    {
+      "name": "Saved references, draft recovery, validation, review and duplicate-proof local submission",
+      "status": "passed"
+    },
+    {
+      "name": "Local inbox status/notes synchronize to visitor view and another same-origin tab",
+      "status": "passed"
+    },
+    {
+      "name": "Text download and printable summary contain the actual saved brief",
+      "status": "passed"
+    },
+    {
+      "name": "Clean project link sharing excludes filters and visitor fields",
+      "status": "passed"
+    },
+    {
+      "name": "Contact inquiry uses sample details and appears in the same local inbox",
+      "status": "passed"
+    },
+    {
+      "name": "Isolated browser context has no local records",
+      "status": "passed"
+    },
+    {
+      "name": "Corrupt storage remains intact; reset is scoped and sample seeding is idempotent",
+      "status": "passed"
+    },
+    {
+      "name": "Quota and disabled storage never claim persistent success; temporary mode is explicit",
+      "status": "passed"
+    },
+    {
+      "name": "Mobile navigation, touch controls and keyboard focus remain usable",
+      "status": "passed"
+    },
+    {
+      "name": "Representative axe WCAG 2.2 AA scans have no serious or critical violations",
+      "status": "passed"
+    },
+    {
+      "name": "Responsive layouts and loaded images at 360, 390, 509, 768, 1024 and 1440px",
+      "status": "passed"
+    },
+    {
+      "name": "200% text sizing and reduced motion preserve content",
+      "status": "passed"
+    },
+    {
+      "name": "Measure cold mobile homepage and project performance under stated conditions",
+      "status": "passed"
+    },
+    {
+      "name": "No uncaught client runtime errors",
+      "status": "passed"
+    }
+  ],
+  "a11y": [
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/work/",
+      "violations": []
+    },
+    {
+      "route": "/work/fold-house/",
+      "violations": []
+    },
+    {
+      "route": "/studio/",
+      "violations": []
+    },
+    {
+      "route": "/process/",
+      "violations": []
+    },
+    {
+      "route": "/journal/the-space-before-the-door/",
+      "violations": []
+    },
+    {
+      "route": "/start-a-project/",
+      "violations": []
+    },
+    {
+      "route": "/contact/",
+      "violations": []
+    },
+    {
+      "route": "/demo/inbox/",
+      "violations": []
+    }
+  ],
+  "performance": {
+    "conditions": "Headless Chromium, 390×844, new isolated context per page, HTTP localhost static export, cache disabled, 1.6 Mbps download / 0.75 Mbps upload / 100ms latency, 4× CPU throttle; one run each, not Lighthouse or field data",
+    "measurements": [
+      {
+        "route": "/",
+        "lcpMs": 2016,
+        "cls": 0.0003461235287841693,
+        "domContentLoadedMs": 1572,
+        "transferBytes": 844683,
+        "fontLoaded": true
+      },
+      {
+        "route": "/work/fold-house/",
+        "lcpMs": 2072,
+        "cls": 0,
+        "domContentLoadedMs": 1556,
+        "transferBytes": 1080884,
+        "fontLoaded": true
+      }
+    ]
+  },
+  "screenshots": [
+    "brief-review-desktop.png",
+    "inbox-desktop.png",
+    "home-desktop.png",
+    "home-desktop-opening.png",
+    "fold-house-desktop.png",
+    "fold-house-desktop-opening.png",
+    "work-desktop.png",
+    "work-list-desktop.png",
+    "brief-desktop.png",
+    "studio-desktop.png",
+    "home-mobile.png",
+    "home-mobile-opening.png",
+    "fold-house-mobile.png",
+    "fold-house-mobile-opening.png",
+    "work-mobile.png",
+    "work-list-mobile.png",
+    "brief-mobile.png",
+    "studio-mobile.png",
+    "home-user-509.png",
+    "home-user-509-opening.png",
+    "fold-house-user-509.png",
+    "fold-house-user-509-opening.png",
+    "work-user-509.png",
+    "work-list-user-509.png",
+    "brief-user-509.png",
+    "studio-user-509.png"
+  ],
+  "faults": []
+}

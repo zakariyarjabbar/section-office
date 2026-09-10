@@ -1,0 +1,146 @@
+{
+  "origin": "http://localhost:3000",
+  "routes": [
+    {
+      "route": "/",
+      "cover": "home",
+      "canonical": "http://localhost:3000/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/work/",
+      "status": "passed"
+    },
+    {
+      "route": "/studio/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/studio/",
+      "status": "passed"
+    },
+    {
+      "route": "/process/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/process/",
+      "status": "passed"
+    },
+    {
+      "route": "/journal/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/journal/",
+      "status": "passed"
+    },
+    {
+      "route": "/start-a-project/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/start-a-project/",
+      "status": "passed"
+    },
+    {
+      "route": "/contact/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/contact/",
+      "status": "passed"
+    },
+    {
+      "route": "/saved/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/saved/",
+      "status": "passed"
+    },
+    {
+      "route": "/my-brief/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/my-brief/",
+      "status": "passed"
+    },
+    {
+      "route": "/demo/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/demo/",
+      "status": "passed"
+    },
+    {
+      "route": "/demo/inbox/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/demo/inbox/",
+      "status": "passed"
+    },
+    {
+      "route": "/privacy/",
+      "cover": "fallback",
+      "canonical": "http://localhost:3000/privacy/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/fold-house/",
+      "cover": "fold-house",
+      "canonical": "http://localhost:3000/work/fold-house/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/foundry-hall/",
+      "cover": "foundry-hall",
+      "canonical": "http://localhost:3000/work/foundry-hall/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/common-ground/",
+      "cover": "common-ground",
+      "canonical": "http://localhost:3000/work/common-ground/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/quarry-rooms/",
+      "cover": "quarry-rooms",
+      "canonical": "http://localhost:3000/work/quarry-rooms/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/frame-apartment/",
+      "cover": "frame-apartment",
+      "canonical": "http://localhost:3000/work/frame-apartment/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/field-pavilion/",
+      "cover": "field-pavilion",
+      "canonical": "http://localhost:3000/work/field-pavilion/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/northlight-studio/",
+      "cover": "northlight-studio",
+      "canonical": "http://localhost:3000/work/northlight-studio/",
+      "status": "passed"
+    },
+    {
+      "route": "/work/passage-gallery/",
+      "cover": "passage-gallery",
+      "canonical": "http://localhost:3000/work/passage-gallery/",
+      "status": "passed"
+    },
+    {
+      "route": "/journal/the-space-before-the-door/",
+      "cover": "the-space-before-the-door",
+      "canonical": "http://localhost:3000/journal/the-space-before-the-door/",
+      "status": "passed"
+    },
+    {
+      "route": "/journal/drawing-with-daylight/",
+      "cover": "drawing-with-daylight",
+      "canonical": "http://localhost:3000/journal/drawing-with-daylight/",
+      "status": "passed"
+    },
+    {
+      "route": "/journal/keeping-the-useful-past/",
+      "cover": "keeping-the-useful-past",
+      "canonical": "http://localhost:3000/journal/keeping-the-useful-past/",
+      "status": "passed"
+    }
+  ],
+  "covers": 13,
+  "images": 30,
+  "failures": []
+}
